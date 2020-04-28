@@ -10,7 +10,7 @@ title:            Midan
 email:            your-email@domain.com
 description:      Clean and Fast Jekyll Blog Theme
 url:                 https://ismly.github.io
-baseurl:             '/m2/'
+baseurl:             '/m2'
 github_username:  ismly
 twitter_username: aspirethemes
 
