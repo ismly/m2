@@ -9,8 +9,8 @@
 title:            Midan
 email:            your-email@domain.com
 description:      Clean and Fast Jekyll Blog Theme
-baseurl:          '' # The subpath of your site, e.g. /blog
-url:              https://ismly.github.io/m2 # The base hostname & protocol for your site
+url:                 https://ismly.github.io
+baseurl:             '/m2/'
 github_username:  ismly
 twitter_username: aspirethemes
 
