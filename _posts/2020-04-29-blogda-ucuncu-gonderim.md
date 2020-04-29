@@ -2,7 +2,7 @@
 layout: post
 title: ucuncu Gonderi
 featured: true
-author: john
+author: ismail
 tags: [python, ruby, java]
 image: '/images/posts/1.jpg'
 ---
