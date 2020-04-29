@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-featured: true
-author: john
+title:  "ikinci!"
+author: ismail
 tags: [python, ruby, java]
-image: '/images/posts/1.jpeg'
+image: '/images/posts/2.jpg'
 ---
 test deneme
 jhdsjhds
-Lorem ipsum dolor
+Lorem ip
+
+sdjksdsum dolor
+**sajksakjsakjsa
