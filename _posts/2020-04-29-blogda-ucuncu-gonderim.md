@@ -4,7 +4,7 @@ title: ucuncu Gonderi
 featured: true
 author: john
 tags: [python, ruby, java]
-image: '/images/posts/2.png'
+image: '/images/posts/1.jpg'
 ---
 
 
